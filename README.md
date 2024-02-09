@@ -46,5 +46,5 @@ This repository contains lecture notes, assignment templates, project starter co
 ## Usage
 
 ```bash
-git clone https://github.com/YourUniversity/ECE565_MachineLearning.git
+git clone https://github.com/ehvenga/ece565.git
 ```
