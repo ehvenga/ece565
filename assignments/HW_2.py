@@ -1,3 +1,9 @@
+'''
+ Hari Vengadesh Elangeswaran
+ 363161
+ Homework 2
+'''
+ 
 import numpy as np
 
 # Neural Network architecture
@@ -37,3 +43,4 @@ A_output = logistic(Z_output)
 
 # Print the output
 print(A_output)
+# print('Shape of Output', A_output.shape)
